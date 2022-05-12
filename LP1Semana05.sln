@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chronos", "Chronos\Chronos.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RandomTest", "RandomTest\RandomTest.csproj", "{2E214083-DBEE-4B85-91C1-8563F47AEEC8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyTestOfRandoms", "MyTestOfRandoms\MyTestOfRandoms.csproj", "{345F9DF1-46DC-4848-A18B-27BE0722F95C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -58,5 +60,17 @@ Global
 		{2E214083-DBEE-4B85-91C1-8563F47AEEC8}.Release|x64.Build.0 = Release|Any CPU
 		{2E214083-DBEE-4B85-91C1-8563F47AEEC8}.Release|x86.ActiveCfg = Release|Any CPU
 		{2E214083-DBEE-4B85-91C1-8563F47AEEC8}.Release|x86.Build.0 = Release|Any CPU
+		{345F9DF1-46DC-4848-A18B-27BE0722F95C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{345F9DF1-46DC-4848-A18B-27BE0722F95C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{345F9DF1-46DC-4848-A18B-27BE0722F95C}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{345F9DF1-46DC-4848-A18B-27BE0722F95C}.Debug|x64.Build.0 = Debug|Any CPU
+		{345F9DF1-46DC-4848-A18B-27BE0722F95C}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{345F9DF1-46DC-4848-A18B-27BE0722F95C}.Debug|x86.Build.0 = Debug|Any CPU
+		{345F9DF1-46DC-4848-A18B-27BE0722F95C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{345F9DF1-46DC-4848-A18B-27BE0722F95C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{345F9DF1-46DC-4848-A18B-27BE0722F95C}.Release|x64.ActiveCfg = Release|Any CPU
+		{345F9DF1-46DC-4848-A18B-27BE0722F95C}.Release|x64.Build.0 = Release|Any CPU
+		{345F9DF1-46DC-4848-A18B-27BE0722F95C}.Release|x86.ActiveCfg = Release|Any CPU
+		{345F9DF1-46DC-4848-A18B-27BE0722F95C}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
